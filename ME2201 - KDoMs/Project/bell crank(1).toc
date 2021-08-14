@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Details of Bell Crank Mechanism}{1}{section.2}
+\contentsline {section}{\numberline {3}Calculation of Degree of Freedom}{1}{section.3}
+\contentsline {section}{\numberline {4}Displacement analysis}{2}{section.4}
+\contentsline {section}{\numberline {5}Animation in Matlab}{3}{section.5}
+\contentsline {section}{\numberline {6}Application of Bell Crank Mechanism}{3}{section.6}
+\contentsline {subsection}{\numberline {6.1}Aircraft}{3}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Automative}{3}{subsection.6.2}
